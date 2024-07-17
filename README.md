@@ -1,7 +1,8 @@
 <h1 align="center"> 🤓👋  Hello, I'm Jair Stefano Quintana Carrión </h1>
-**_You can contact me through these links below 🚀🚀🚀:._**
+*** You can contact me through these links below 🚀🚀🚀: ***
 <br>
 <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 <!--
