@@ -47,12 +47,10 @@ I'm a new Web Developer always learning and improving my skills 👨‍💻👨�
 
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+
 <p style='font-weight: 800' >You can contact me through these links below: 🚀🚀🚀 </p>
 <br>
 <br><div style="float:right; font-style:italic;font-weight:600;padding:1rem" >
 coding right now <br> <img  src='https://media.tenor.com/G69XvhZj1wMAAAAi/code-encoding.gif' width="120" />
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-
-<!--
