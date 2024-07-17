@@ -1,4 +1,8 @@
-<h1 align="center"> Hola,  soy Jair </h1>
+🤓👋 <h1 align="center"> Hello, I'm Jair Stefano Quintana Carrión </h1>
+**_You can contact me through these links below 🚀🚀🚀:._**
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+
 <!--
 **Juckumi/Juckumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
